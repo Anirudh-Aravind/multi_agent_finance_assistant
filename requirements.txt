@@ -1,0 +1,7 @@
+yfinance==0.2.51  # Download market data from Yahoo! Finance API
+phidata==2.7.5    # Build multi-modal Agents with memory, knowledge and tools
+groq==0.13.1      # The official Python library for the groq API
+duckduckgo-search==7.1.1    # Search for words, documents, images, news, maps and text translation using the DuckDuckGo.com search engine
+googlesearch-python==1.2.5  # A Python library for scraping the Google search engine
+pycountry==24.6.1 # ISO country, subdivision, language, currency and script definitions and their translations
+streamlit==1.40.1 # Application UI
