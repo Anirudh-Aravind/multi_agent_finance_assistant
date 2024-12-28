@@ -105,3 +105,5 @@ This will launch the Streamlit app in your default web browser at `http://localh
 You can try out the Financial Analysis Assistant live at the following URL:
 
 https://multi-agent-finance-assistant.streamlit.app/  
+
+**Note**: This is a demo UI. While you can explore the interface, please be aware that hitting any action buttons result in errors due to missing API keys, which are not included in this public repository for security reasons. To run the application locally, you will need to set up your own API keys as described in the installation section.
